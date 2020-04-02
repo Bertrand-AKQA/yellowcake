@@ -1,11 +1,15 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Le comptoir des Saints-Pères
+featuredImage: 'https://ucarecdn.com/2c25840b-f8a8-4e69-9d1a-3bf855266414/'
+subtitle: ''
+accordion:
+  - content: tes bloc accordeon
+    title: Actualités
 meta:
   description: This is a meta description.
+  noindex: false
   title: The Ultimate Gatsby Starter
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
