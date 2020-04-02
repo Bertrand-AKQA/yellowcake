@@ -3,7 +3,7 @@ template: HomePage
 slug: ''
 title: Le comptoir des Saints-Pères
 featuredImage: 'https://ucarecdn.com/2c25840b-f8a8-4e69-9d1a-3bf855266414/'
-subtitle: ''
+subtitle: cosy bar dans le 6e
 accordion:
   - content: tes bloc accordeon
     title: Actualités
